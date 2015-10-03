@@ -1,0 +1,31 @@
+{
+  "config": {
+    "ads_click_percent": 5,
+    "ads_waiting_duration": 2000,
+    "nonclick_restart_duration": 8000,
+    "click_excute_duration": 8000,
+    "click_restart_duration": 16000
+  },
+  "admob": [
+    {
+      "name": "INTERSTITIAL_MI_MH70TJ_MUSIC",
+      "id": "ca-app-pub-7167120088002952/4392009622"
+    },
+    {
+      "name": "INTERSTITIAL_MI_MH70TJ_NEWS",
+      "id": "ca-app-pub-7167120088002952/7345476021"
+    },
+    {
+      "name": "INTERSTITIAL_MI_MH70TJ_RADIO",
+      "id": "ca-app-pub-7167120088002952/1298942428"
+    },
+    {
+      "name": "INTERSTITIAL_MI_MH70TJ_VIDEO",
+      "id": "ca-app-pub-7167120088002952/8961810027"
+    },
+    {
+      "name": "INTERSTITIAL_MI_MH70TJ_WALL",
+      "id": "ca-app-pub-7167120088002952/6008343628"
+    }
+  ]
+}
