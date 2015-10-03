@@ -1,5 +1,6 @@
 {
   "config": {
+    "app_cache_duration": 86400,
     "ads_click_percent": 5,
     "ads_waiting_duration": 2000,
     "nonclick_restart_duration": 8000,
