@@ -5,6 +5,7 @@
     "ads_waiting_duration": 2000,
     "nonclick_restart_duration": 8000,
     "click_excute_duration": 8000,
+	"click_target_duration": 14000,
     "click_restart_duration": 16000
   },
   "admob": [
