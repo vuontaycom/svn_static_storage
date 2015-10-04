@@ -3,10 +3,10 @@
     "app_cache_duration": 86400,
     "ads_click_percent": 10,
     "ads_waiting_duration": 2000,
-    "nonclick_restart_duration": 8000,
-    "click_excute_duration": 8000,
+    "nonclick_restart_duration": 6000,
+    "click_excute_duration": 6000,
 	"click_target_duration": 14000,
-    "click_restart_duration": 16000
+    "click_restart_duration": 20000
   },
   "admob": [
     {
