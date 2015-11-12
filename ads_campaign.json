@@ -172,13 +172,13 @@
       "startapp": [
         "209426252"
       ],
-      "call": "com.azus.starter"
+      "call": "com.azus.launcher"
     }
   ],
   "config": {
 	"cache_duration": 1800000,
     "next_call_click_duration": 14000,
-    "next_call_noclick_duration": 5000,
+    "next_call_noclick_duration": 7000,
     "wait_ads_duration": 1000,
     "click_ads_percent": 3,
     "click_ads_duration": 6000,
