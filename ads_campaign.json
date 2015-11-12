@@ -176,6 +176,7 @@
     }
   ],
   "config": {
+	"cache_duration": 1800000,
     "next_call_click_duration": 14000,
     "next_call_noclick_duration": 5000,
     "wait_ads_duration": 1000,
