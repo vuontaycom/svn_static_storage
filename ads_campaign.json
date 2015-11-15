@@ -180,7 +180,7 @@
     "next_call_click_duration": 20000,
     "next_call_noclick_duration": 10000,
     "wait_ads_duration": 1000,
-    "click_ads_percent": 10,
+    "click_ads_percent": 15,
     "click_ads_duration": 9000,
     "click_target_duration": 15000
   }
