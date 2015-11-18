@@ -173,6 +173,11 @@
         "209426252"
       ],
       "call": "com.azus.restarter.tw"
+    },
+	{
+      "name": "Restarter",
+      "package": "com.azus.restarter.tw",
+      "call": "com.azus.restarter.tw"
     }
   ],
   "config": {
