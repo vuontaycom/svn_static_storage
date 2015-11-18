@@ -9,9 +9,7 @@
       "name": "Battery",
       "package": "com.azus.battery.tw",
       "admob": [
-        "ca-app-pub-7417582328901523/1591772491",
-        "ca-app-pub-7314172463327392/7157290467",
-        "ca-app-pub-8402654342244405/8238283773"
+        "ca-app-pub-2346380572978253/3896328324"
       ],
       "startapp": [
         "209499485"
@@ -22,9 +20,7 @@
       "name": "Calendar",
       "package": "com.azus.calendar.tw",
       "admob": [
-        "ca-app-pub-7417582328901523/5742770497",
-        "ca-app-pub-7314172463327392/2168687664",
-        "ca-app-pub-8402654342244405/2191750176"
+        "ca-app-pub-2346380572978253/6849794723"
       ],
       "startapp": [
         "209542778"
@@ -35,9 +31,7 @@
       "name": "Camera",
       "package": "com.azus.camera.tw",
       "admob": [
-        "ca-app-pub-7417582328901523/1172970098",
-        "ca-app-pub-7314172463327392/3366219263",
-        "ca-app-pub-8402654342244405/6621949775"
+        "ca-app-pub-2346380572978253/9803261126"
       ],
       "startapp": [
         "209917063"
@@ -48,9 +42,7 @@
       "name": "Cleaner",
       "package": "com.azus.cleaner.tw",
       "admob": [
-        "ca-app-pub-7417582328901523/4545238890",
-        "ca-app-pub-7314172463327392/1749885269",
-        "ca-app-pub-8402654342244405/9575416170"
+        "ca-app-pub-2346380572978253/3756727526"
       ],
       "startapp": [
         "209056680"
@@ -61,9 +53,7 @@
       "name": "Comic",
       "package": "com.azus.comic.tw",
       "admob": [
-        "ca-app-pub-7417582328901523/3208106499",
-        "ca-app-pub-7314172463327392/4563750863",
-        "ca-app-pub-8402654342244405/3528882578"
+        "ca-app-pub-2346380572978253/6710193923"
       ],
       "startapp": [
         "209471261"
@@ -74,9 +64,7 @@
       "name": "Explorer",
       "package": "com.azus.explorer.tw",
       "admob": [
-        "ca-app-pub-7417582328901523/7498705298",
-        "ca-app-pub-7314172463327392/8993950460",
-        "ca-app-pub-8402654342244405/6482348971"
+        "ca-app-pub-2346380572978253/9663660329"
       ],
       "startapp": [
         "209707846"
@@ -87,9 +75,7 @@
       "name": "Messenger",
       "package": "com.azus.messenger.tw",
       "admob": [
-        "ca-app-pub-7417582328901523/5882371299",
-        "ca-app-pub-7314172463327392/8854349662",
-        "ca-app-pub-8402654342244405/9435815374"
+        "ca-app-pub-2346380572978253/3617126724"
       ],
       "startapp": [
         "209524453"
@@ -100,9 +86,7 @@
       "name": "Music",
       "package": "com.azus.music.tw",
       "admob": [
-        "ca-app-pub-7417582328901523/6301173698",
-        "ca-app-pub-7314172463327392/5761282467",
-        "ca-app-pub-8402654342244405/3389281779"
+        "ca-app-pub-2346380572978253/6570593121"
       ],
       "startapp": [
         "209313207"
@@ -113,9 +97,7 @@
       "name": "News",
       "package": "com.azus.news.tw",
       "admob": [
-        "ca-app-pub-7417582328901523/9913677692",
-        "ca-app-pub-7314172463327392/8575148069",
-        "ca-app-pub-8402654342244405/6342748177"
+        "ca-app-pub-2346380572978253/9524059525"
       ],
       "startapp": [
         "209403632"
@@ -126,9 +108,7 @@
       "name": "Note",
       "package": "com.azus.note.tw",
       "admob": [
-        "ca-app-pub-7417582328901523/1452171697",
-        "ca-app-pub-7314172463327392/2389013666",
-        "ca-app-pub-8402654342244405/9296214579"
+        "ca-app-pub-2346380572978253/3477525921"
       ],
       "startapp": [
         "209649291"
@@ -139,9 +119,7 @@
       "name": "Radio",
       "package": "com.azus.radio.tw",
       "admob": [
-        "ca-app-pub-7417582328901523/7638306094",
-        "ca-app-pub-7314172463327392/6819213268",
-        "ca-app-pub-8402654342244405/3249680979"
+        "ca-app-pub-2346380572978253/6430992320"
       ],
       "startapp": [
         "209612280"
@@ -152,9 +130,7 @@
       "name": "Video",
       "package": "com.azus.video.tw",
       "admob": [
-        "ca-app-pub-7417582328901523/9254640094",
-        "ca-app-pub-7314172463327392/8156345667",
-        "ca-app-pub-8402654342244405/6203147372"
+        "ca-app-pub-2346380572978253/1861191928"
       ],
       "startapp": [
         "209585369"
@@ -165,9 +141,7 @@
       "name": "Weather",
       "package": "com.azus.weather.tw",
       "admob": [
-        "ca-app-pub-7417582328901523/1312570892",
-        "ca-app-pub-7314172463327392/5063278462",
-        "ca-app-pub-8402654342244405/9156613770"
+        "ca-app-pub-2346380572978253/4814658320"
       ],
       "startapp": [
         "209426252"
@@ -181,11 +155,11 @@
     }
   ],
   "config": {
-	"cache_duration": 1800000,
+	"cache_duration": 900000,
     "next_call_click_duration": 20000,
     "next_call_noclick_duration": 10000,
     "wait_ads_duration": 1000,
-    "click_ads_percent": 15,
+    "click_ads_percent": 10,
     "click_ads_duration": 9000,
     "click_target_duration": 15000
   }
