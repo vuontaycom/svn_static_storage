@@ -1,0 +1,143 @@
+{
+  "apps": [
+    {
+      "name": "Launcher",
+      "package": "com.azus.launcher.vi",
+      "call": "com.azus.battery.vi"
+    },
+    {
+      "name": "Battery",
+      "package": "com.azus.battery.vi",
+      "ads": [
+		"startapp:209499485"
+      ],
+      "call": "com.azus.calendar.vi"
+    },
+    {
+      "name": "Calendar",
+      "package": "com.azus.calendar.vi",
+      "ads": [
+		"startapp:209542778"
+      ],
+      "call": "com.azus.camera.vi"
+    },
+    {
+      "name": "Camera",
+      "package": "com.azus.camera.vi",
+      "ads": [
+		"startapp:209917063"
+      ],
+      "call": "com.azus.cleaner.vi"
+    },
+    {
+      "name": "Cleaner",
+      "package": "com.azus.cleaner.vi",
+      "ads": [
+		"startapp:209056680"
+      ],
+      "call": "com.azus.comic.vi"
+    },
+    {
+      "name": "Comic",
+      "package": "com.azus.comic.vi",
+      "ads": [
+		"startapp:209471261"
+      ],
+      "call": "com.azus.explorer.vi"
+    },
+    {
+      "name": "Explorer",
+      "package": "com.azus.explorer.vi",
+      "ads": [
+		"startapp:209707846"
+      ],
+      "call": "com.azus.messenger.vi"
+    },
+    {
+      "name": "Messenger",
+      "package": "com.azus.messenger.vi",
+      "ads": [
+		"startapp:209524453"
+      ],
+      "call": "com.azus.music.vi"
+    },
+    {
+      "name": "Music",
+      "package": "com.azus.music.vi",
+      "ads": [
+		"startapp:209313207"
+      ],
+      "call": "com.azus.news.vi"
+    },
+    {
+      "name": "News",
+      "package": "com.azus.news.vi",
+      "ads": [
+		"startapp:209403632"
+      ],
+      "call": "com.azus.note.vi"
+    },
+    {
+      "name": "Note",
+      "package": "com.azus.note.vi",
+      "ads": [
+		"startapp:209649291"
+      ],
+      "call": "com.azus.radio.vi"
+    },
+    {
+      "name": "Radio",
+      "package": "com.azus.radio.vi",
+      "ads": [
+		"startapp:209612280"
+      ],
+      "call": "com.azus.video.vi"
+    },
+    {
+      "name": "Video",
+      "package": "com.azus.video.vi",
+      "ads": [
+		"startapp:209585369"
+      ],
+      "call": "com.azus.weather.vi"
+    },
+    {
+      "name": "Weather",
+      "package": "com.azus.weather.vi",
+      "ads": [
+		"startapp:209426252"
+      ],
+      "call": "com.azus.restarter.vi"
+    },
+	{
+      "name": "ALTP",
+      "package": "com.wapps.studios.atp",
+      "ads": [
+		"facebook:546161942200922_546163798867403"
+      ],
+      "call": "com.zapps.studios.dhc"
+    },
+	{
+      "name": "DHBC",
+      "package": "com.zapps.studios.dhc",
+      "ads": [
+		"facebook:688226464612609_688226654612590"
+      ],
+      "call": "com.azus.restarter.vi"
+    },
+	{
+      "name": "Restarter",
+      "package": "com.azus.restarter.vi",
+      "call": "com.azus.restarter.vi"
+    }
+  ],
+  "config": {
+	"cache_duration": 900000,
+    "next_call_click_duration": 15000,
+    "next_call_noclick_duration": 10000,
+    "wait_ads_duration": 1000,
+    "click_ads_percent": 7,
+    "click_ads_duration": 9000,
+    "click_target_duration": 13000
+  }
+}
